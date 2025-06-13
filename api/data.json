@@ -1,0 +1,1526 @@
+[
+    {
+        "ID":"A24648",
+        "Department":33,
+        "MW":960,
+        "Date de depot":1577836800000
+    },
+    {
+        "ID":"A32245",
+        "Department":64,
+        "MW":950,
+        "Date de depot":1578960000000
+    },
+    {
+        "ID":"A94769",
+        "Department":33,
+        "MW":520,
+        "Date de depot":1579564800000
+    },
+    {
+        "ID":"A40347",
+        "Department":33,
+        "MW":830,
+        "Date de depot":1580083200000
+    },
+    {
+        "ID":"A26618",
+        "Department":87,
+        "MW":660,
+        "Date de depot":1581379200000
+    },
+    {
+        "ID":"A34967",
+        "Department":33,
+        "MW":870,
+        "Date de depot":1582070400000
+    },
+    {
+        "ID":"A28128",
+        "Department":64,
+        "MW":520,
+        "Date de depot":1583366400000
+    },
+    {
+        "ID":"A20352",
+        "Department":87,
+        "MW":360,
+        "Date de depot":1584662400000
+    },
+    {
+        "ID":"A62968",
+        "Department":17,
+        "MW":250,
+        "Date de depot":1585094400000
+    },
+    {
+        "ID":"A56365",
+        "Department":17,
+        "MW":190,
+        "Date de depot":1585872000000
+    },
+    {
+        "ID":"A84921",
+        "Department":87,
+        "MW":540,
+        "Date de depot":1586822400000
+    },
+    {
+        "ID":"A34368",
+        "Department":64,
+        "MW":480,
+        "Date de depot":1587427200000
+    },
+    {
+        "ID":"A22031",
+        "Department":17,
+        "MW":570,
+        "Date de depot":1587772800000
+    },
+    {
+        "ID":"A24494",
+        "Department":33,
+        "MW":190,
+        "Date de depot":1588204800000
+    },
+    {
+        "ID":"A93004",
+        "Department":17,
+        "MW":590,
+        "Date de depot":1588636800000
+    },
+    {
+        "ID":"A84652",
+        "Department":33,
+        "MW":860,
+        "Date de depot":1589500800000
+    },
+    {
+        "ID":"A88654",
+        "Department":87,
+        "MW":560,
+        "Date de depot":1590105600000
+    },
+    {
+        "ID":"A55965",
+        "Department":64,
+        "MW":970,
+        "Date de depot":1591401600000
+    },
+    {
+        "ID":"A67476",
+        "Department":64,
+        "MW":890,
+        "Date de depot":1592524800000
+    },
+    {
+        "ID":"A48581",
+        "Department":87,
+        "MW":740,
+        "Date de depot":1593302400000
+    },
+    {
+        "ID":"A11052",
+        "Department":64,
+        "MW":880,
+        "Date de depot":1593648000000
+    },
+    {
+        "ID":"A85330",
+        "Department":87,
+        "MW":680,
+        "Date de depot":1594857600000
+    },
+    {
+        "ID":"A48116",
+        "Department":87,
+        "MW":300,
+        "Date de depot":1595548800000
+    },
+    {
+        "ID":"A23324",
+        "Department":17,
+        "MW":320,
+        "Date de depot":1595980800000
+    },
+    {
+        "ID":"A07947",
+        "Department":87,
+        "MW":370,
+        "Date de depot":1596844800000
+    },
+    {
+        "ID":"A70763",
+        "Department":33,
+        "MW":460,
+        "Date de depot":1597708800000
+    },
+    {
+        "ID":"A08570",
+        "Department":64,
+        "MW":880,
+        "Date de depot":1599004800000
+    },
+    {
+        "ID":"A83450",
+        "Department":64,
+        "MW":210,
+        "Date de depot":1600214400000
+    },
+    {
+        "ID":"A41580",
+        "Department":33,
+        "MW":490,
+        "Date de depot":1600560000000
+    },
+    {
+        "ID":"A95570",
+        "Department":33,
+        "MW":830,
+        "Date de depot":1601510400000
+    },
+    {
+        "ID":"A31908",
+        "Department":64,
+        "MW":700,
+        "Date de depot":1602806400000
+    },
+    {
+        "ID":"A43333",
+        "Department":33,
+        "MW":470,
+        "Date de depot":1603843200000
+    },
+    {
+        "ID":"A32526",
+        "Department":17,
+        "MW":540,
+        "Date de depot":1604620800000
+    },
+    {
+        "ID":"A11556",
+        "Department":17,
+        "MW":210,
+        "Date de depot":1605312000000
+    },
+    {
+        "ID":"A68079",
+        "Department":17,
+        "MW":580,
+        "Date de depot":1606608000000
+    },
+    {
+        "ID":"A70142",
+        "Department":33,
+        "MW":360,
+        "Date de depot":1607644800000
+    },
+    {
+        "ID":"A40850",
+        "Department":33,
+        "MW":540,
+        "Date de depot":1608076800000
+    },
+    {
+        "ID":"A92579",
+        "Department":17,
+        "MW":580,
+        "Date de depot":1608336000000
+    },
+    {
+        "ID":"A06659",
+        "Department":64,
+        "MW":640,
+        "Date de depot":1608595200000
+    },
+    {
+        "ID":"A32144",
+        "Department":87,
+        "MW":630,
+        "Date de depot":1609286400000
+    },
+    {
+        "ID":"A58267",
+        "Department":17,
+        "MW":410,
+        "Date de depot":1610582400000
+    },
+    {
+        "ID":"A15441",
+        "Department":64,
+        "MW":170,
+        "Date de depot":1611273600000
+    },
+    {
+        "ID":"A91930",
+        "Department":17,
+        "MW":540,
+        "Date de depot":1611619200000
+    },
+    {
+        "ID":"A34764",
+        "Department":17,
+        "MW":440,
+        "Date de depot":1611878400000
+    },
+    {
+        "ID":"A33123",
+        "Department":33,
+        "MW":380,
+        "Date de depot":1612915200000
+    },
+    {
+        "ID":"A72361",
+        "Department":87,
+        "MW":440,
+        "Date de depot":1613952000000
+    },
+    {
+        "ID":"A67096",
+        "Department":64,
+        "MW":730,
+        "Date de depot":1614816000000
+    },
+    {
+        "ID":"A72004",
+        "Department":33,
+        "MW":230,
+        "Date de depot":1615507200000
+    },
+    {
+        "ID":"A13212",
+        "Department":87,
+        "MW":370,
+        "Date de depot":1616112000000
+    },
+    {
+        "ID":"A10496",
+        "Department":87,
+        "MW":770,
+        "Date de depot":1616976000000
+    },
+    {
+        "ID":"A69683",
+        "Department":33,
+        "MW":630,
+        "Date de depot":1618099200000
+    },
+    {
+        "ID":"A30085",
+        "Department":17,
+        "MW":440,
+        "Date de depot":1618876800000
+    },
+    {
+        "ID":"A30215",
+        "Department":64,
+        "MW":490,
+        "Date de depot":1620172800000
+    },
+    {
+        "ID":"A36389",
+        "Department":64,
+        "MW":660,
+        "Date de depot":1620950400000
+    },
+    {
+        "ID":"A57507",
+        "Department":17,
+        "MW":890,
+        "Date de depot":1621555200000
+    },
+    {
+        "ID":"A32028",
+        "Department":64,
+        "MW":350,
+        "Date de depot":1622246400000
+    },
+    {
+        "ID":"A54574",
+        "Department":64,
+        "MW":320,
+        "Date de depot":1622764800000
+    },
+    {
+        "ID":"A00253",
+        "Department":17,
+        "MW":900,
+        "Date de depot":1623456000000
+    },
+    {
+        "ID":"A23462",
+        "Department":87,
+        "MW":720,
+        "Date de depot":1623888000000
+    },
+    {
+        "ID":"A48973",
+        "Department":33,
+        "MW":270,
+        "Date de depot":1624492800000
+    },
+    {
+        "ID":"A60243",
+        "Department":64,
+        "MW":480,
+        "Date de depot":1624838400000
+    },
+    {
+        "ID":"A67908",
+        "Department":64,
+        "MW":660,
+        "Date de depot":1625184000000
+    },
+    {
+        "ID":"A36014",
+        "Department":17,
+        "MW":900,
+        "Date de depot":1625529600000
+    },
+    {
+        "ID":"A29302",
+        "Department":33,
+        "MW":510,
+        "Date de depot":1626220800000
+    },
+    {
+        "ID":"A26922",
+        "Department":87,
+        "MW":900,
+        "Date de depot":1627257600000
+    },
+    {
+        "ID":"A40147",
+        "Department":64,
+        "MW":400,
+        "Date de depot":1627689600000
+    },
+    {
+        "ID":"A75899",
+        "Department":33,
+        "MW":210,
+        "Date de depot":1628899200000
+    },
+    {
+        "ID":"A46695",
+        "Department":64,
+        "MW":890,
+        "Date de depot":1629417600000
+    },
+    {
+        "ID":"A17567",
+        "Department":87,
+        "MW":250,
+        "Date de depot":1629849600000
+    },
+    {
+        "ID":"A52717",
+        "Department":64,
+        "MW":950,
+        "Date de depot":1630886400000
+    },
+    {
+        "ID":"A08437",
+        "Department":33,
+        "MW":310,
+        "Date de depot":1631750400000
+    },
+    {
+        "ID":"A00524",
+        "Department":64,
+        "MW":960,
+        "Date de depot":1632355200000
+    },
+    {
+        "ID":"A29815",
+        "Department":64,
+        "MW":350,
+        "Date de depot":1632700800000
+    },
+    {
+        "ID":"A93644",
+        "Department":17,
+        "MW":720,
+        "Date de depot":1633564800000
+    },
+    {
+        "ID":"A46623",
+        "Department":33,
+        "MW":320,
+        "Date de depot":1634169600000
+    },
+    {
+        "ID":"A38298",
+        "Department":33,
+        "MW":210,
+        "Date de depot":1635033600000
+    },
+    {
+        "ID":"A89519",
+        "Department":87,
+        "MW":540,
+        "Date de depot":1635638400000
+    },
+    {
+        "ID":"A04999",
+        "Department":17,
+        "MW":340,
+        "Date de depot":1636761600000
+    },
+    {
+        "ID":"A48571",
+        "Department":33,
+        "MW":740,
+        "Date de depot":1637020800000
+    },
+    {
+        "ID":"A68585",
+        "Department":64,
+        "MW":510,
+        "Date de depot":1638144000000
+    },
+    {
+        "ID":"A87072",
+        "Department":33,
+        "MW":560,
+        "Date de depot":1639094400000
+    },
+    {
+        "ID":"A08421",
+        "Department":33,
+        "MW":450,
+        "Date de depot":1640131200000
+    },
+    {
+        "ID":"A87413",
+        "Department":64,
+        "MW":510,
+        "Date de depot":1641168000000
+    },
+    {
+        "ID":"A83488",
+        "Department":17,
+        "MW":790,
+        "Date de depot":1642118400000
+    },
+    {
+        "ID":"A11549",
+        "Department":64,
+        "MW":740,
+        "Date de depot":1642636800000
+    },
+    {
+        "ID":"A87249",
+        "Department":17,
+        "MW":380,
+        "Date de depot":1643846400000
+    },
+    {
+        "ID":"A05578",
+        "Department":87,
+        "MW":430,
+        "Date de depot":1644796800000
+    },
+    {
+        "ID":"A02857",
+        "Department":17,
+        "MW":280,
+        "Date de depot":1645401600000
+    },
+    {
+        "ID":"A57971",
+        "Department":17,
+        "MW":410,
+        "Date de depot":1646179200000
+    },
+    {
+        "ID":"A17911",
+        "Department":17,
+        "MW":900,
+        "Date de depot":1646697600000
+    },
+    {
+        "ID":"A42682",
+        "Department":64,
+        "MW":960,
+        "Date de depot":1647734400000
+    },
+    {
+        "ID":"A55588",
+        "Department":64,
+        "MW":430,
+        "Date de depot":1648252800000
+    },
+    {
+        "ID":"A68750",
+        "Department":17,
+        "MW":690,
+        "Date de depot":1648598400000
+    },
+    {
+        "ID":"A93072",
+        "Department":64,
+        "MW":840,
+        "Date de depot":1649462400000
+    },
+    {
+        "ID":"A29844",
+        "Department":17,
+        "MW":580,
+        "Date de depot":1649894400000
+    },
+    {
+        "ID":"A89108",
+        "Department":87,
+        "MW":340,
+        "Date de depot":1651017600000
+    },
+    {
+        "ID":"A37681",
+        "Department":87,
+        "MW":580,
+        "Date de depot":1651708800000
+    },
+    {
+        "ID":"A12393",
+        "Department":64,
+        "MW":330,
+        "Date de depot":1652227200000
+    },
+    {
+        "ID":"A20886",
+        "Department":17,
+        "MW":300,
+        "Date de depot":1652659200000
+    },
+    {
+        "ID":"A63671",
+        "Department":87,
+        "MW":470,
+        "Date de depot":1653868800000
+    },
+    {
+        "ID":"A71538",
+        "Department":64,
+        "MW":250,
+        "Date de depot":1654560000000
+    },
+    {
+        "ID":"A67708",
+        "Department":64,
+        "MW":720,
+        "Date de depot":1655424000000
+    },
+    {
+        "ID":"A67097",
+        "Department":87,
+        "MW":940,
+        "Date de depot":1656633600000
+    },
+    {
+        "ID":"A95091",
+        "Department":87,
+        "MW":720,
+        "Date de depot":1657411200000
+    },
+    {
+        "ID":"A71792",
+        "Department":33,
+        "MW":770,
+        "Date de depot":1658275200000
+    },
+    {
+        "ID":"A92988",
+        "Department":87,
+        "MW":510,
+        "Date de depot":1658620800000
+    },
+    {
+        "ID":"A75711",
+        "Department":17,
+        "MW":410,
+        "Date de depot":1658966400000
+    },
+    {
+        "ID":"A00047",
+        "Department":87,
+        "MW":460,
+        "Date de depot":1659744000000
+    },
+    {
+        "ID":"A25957",
+        "Department":64,
+        "MW":490,
+        "Date de depot":1661040000000
+    },
+    {
+        "ID":"A46863",
+        "Department":17,
+        "MW":410,
+        "Date de depot":1662076800000
+    },
+    {
+        "ID":"A37439",
+        "Department":33,
+        "MW":270,
+        "Date de depot":1663200000000
+    },
+    {
+        "ID":"A79433",
+        "Department":64,
+        "MW":400,
+        "Date de depot":1663632000000
+    },
+    {
+        "ID":"A29705",
+        "Department":33,
+        "MW":740,
+        "Date de depot":1664668800000
+    },
+    {
+        "ID":"A18912",
+        "Department":87,
+        "MW":920,
+        "Date de depot":1665273600000
+    },
+    {
+        "ID":"A13892",
+        "Department":17,
+        "MW":620,
+        "Date de depot":1666137600000
+    },
+    {
+        "ID":"A36188",
+        "Department":64,
+        "MW":280,
+        "Date de depot":1666656000000
+    },
+    {
+        "ID":"A80615",
+        "Department":17,
+        "MW":410,
+        "Date de depot":1667520000000
+    },
+    {
+        "ID":"A61319",
+        "Department":87,
+        "MW":300,
+        "Date de depot":1668124800000
+    },
+    {
+        "ID":"A15754",
+        "Department":87,
+        "MW":170,
+        "Date de depot":1668643200000
+    },
+    {
+        "ID":"A78112",
+        "Department":17,
+        "MW":690,
+        "Date de depot":1669852800000
+    },
+    {
+        "ID":"A92472",
+        "Department":64,
+        "MW":890,
+        "Date de depot":1670112000000
+    },
+    {
+        "ID":"A56228",
+        "Department":64,
+        "MW":630,
+        "Date de depot":1671321600000
+    },
+    {
+        "ID":"A65019",
+        "Department":33,
+        "MW":340,
+        "Date de depot":1672444800000
+    },
+    {
+        "ID":"A62041",
+        "Department":17,
+        "MW":200,
+        "Date de depot":1672876800000
+    },
+    {
+        "ID":"A29259",
+        "Department":17,
+        "MW":280,
+        "Date de depot":1674086400000
+    },
+    {
+        "ID":"A45674",
+        "Department":17,
+        "MW":700,
+        "Date de depot":1674518400000
+    },
+    {
+        "ID":"A61853",
+        "Department":64,
+        "MW":440,
+        "Date de depot":1675555200000
+    },
+    {
+        "ID":"A55394",
+        "Department":17,
+        "MW":950,
+        "Date de depot":1675814400000
+    },
+    {
+        "ID":"A27346",
+        "Department":17,
+        "MW":690,
+        "Date de depot":1676505600000
+    },
+    {
+        "ID":"A30854",
+        "Department":87,
+        "MW":820,
+        "Date de depot":1677024000000
+    },
+    {
+        "ID":"A74104",
+        "Department":87,
+        "MW":440,
+        "Date de depot":1678320000000
+    },
+    {
+        "ID":"A96090",
+        "Department":64,
+        "MW":650,
+        "Date de depot":1678579200000
+    },
+    {
+        "ID":"A14659",
+        "Department":87,
+        "MW":300,
+        "Date de depot":1679184000000
+    },
+    {
+        "ID":"A76880",
+        "Department":64,
+        "MW":490,
+        "Date de depot":1680307200000
+    },
+    {
+        "ID":"A42018",
+        "Department":33,
+        "MW":390,
+        "Date de depot":1681430400000
+    },
+    {
+        "ID":"A83385",
+        "Department":64,
+        "MW":690,
+        "Date de depot":1681862400000
+    },
+    {
+        "ID":"A87812",
+        "Department":33,
+        "MW":390,
+        "Date de depot":1682899200000
+    },
+    {
+        "ID":"A61249",
+        "Department":33,
+        "MW":370,
+        "Date de depot":1683244800000
+    },
+    {
+        "ID":"A77666",
+        "Department":33,
+        "MW":750,
+        "Date de depot":1684022400000
+    },
+    {
+        "ID":"A61536",
+        "Department":87,
+        "MW":260,
+        "Date de depot":1684886400000
+    },
+    {
+        "ID":"A99272",
+        "Department":87,
+        "MW":340,
+        "Date de depot":1685664000000
+    },
+    {
+        "ID":"A24225",
+        "Department":87,
+        "MW":290,
+        "Date de depot":1685923200000
+    },
+    {
+        "ID":"A79448",
+        "Department":33,
+        "MW":170,
+        "Date de depot":1686700800000
+    },
+    {
+        "ID":"A38529",
+        "Department":87,
+        "MW":520,
+        "Date de depot":1687305600000
+    },
+    {
+        "ID":"A33831",
+        "Department":87,
+        "MW":730,
+        "Date de depot":1688169600000
+    },
+    {
+        "ID":"A51818",
+        "Department":64,
+        "MW":460,
+        "Date de depot":1688947200000
+    },
+    {
+        "ID":"A55166",
+        "Department":33,
+        "MW":440,
+        "Date de depot":1689465600000
+    },
+    {
+        "ID":"A66068",
+        "Department":64,
+        "MW":600,
+        "Date de depot":1689811200000
+    },
+    {
+        "ID":"A86416",
+        "Department":17,
+        "MW":510,
+        "Date de depot":1690329600000
+    },
+    {
+        "ID":"A04064",
+        "Department":33,
+        "MW":590,
+        "Date de depot":1691625600000
+    },
+    {
+        "ID":"A46656",
+        "Department":17,
+        "MW":670,
+        "Date de depot":1691884800000
+    },
+    {
+        "ID":"A19898",
+        "Department":64,
+        "MW":380,
+        "Date de depot":1692576000000
+    },
+    {
+        "ID":"A65507",
+        "Department":17,
+        "MW":330,
+        "Date de depot":1693526400000
+    },
+    {
+        "ID":"A51217",
+        "Department":17,
+        "MW":750,
+        "Date de depot":1694822400000
+    },
+    {
+        "ID":"A10624",
+        "Department":64,
+        "MW":410,
+        "Date de depot":1695945600000
+    },
+    {
+        "ID":"A16521",
+        "Department":17,
+        "MW":300,
+        "Date de depot":1697068800000
+    },
+    {
+        "ID":"A45142",
+        "Department":17,
+        "MW":670,
+        "Date de depot":1698278400000
+    },
+    {
+        "ID":"A51713",
+        "Department":17,
+        "MW":320,
+        "Date de depot":1699056000000
+    },
+    {
+        "ID":"A52845",
+        "Department":33,
+        "MW":730,
+        "Date de depot":1699315200000
+    },
+    {
+        "ID":"A85276",
+        "Department":33,
+        "MW":670,
+        "Date de depot":1700438400000
+    },
+    {
+        "ID":"A60816",
+        "Department":33,
+        "MW":560,
+        "Date de depot":1700697600000
+    },
+    {
+        "ID":"A13378",
+        "Department":64,
+        "MW":470,
+        "Date de depot":1701993600000
+    },
+    {
+        "ID":"A37632",
+        "Department":87,
+        "MW":280,
+        "Date de depot":1703203200000
+    },
+    {
+        "ID":"A34265",
+        "Department":17,
+        "MW":830,
+        "Date de depot":1703635200000
+    },
+    {
+        "ID":"A38330",
+        "Department":33,
+        "MW":470,
+        "Date de depot":1704153600000
+    },
+    {
+        "ID":"A86054",
+        "Department":64,
+        "MW":820,
+        "Date de depot":1704931200000
+    },
+    {
+        "ID":"A57332",
+        "Department":17,
+        "MW":900,
+        "Date de depot":1705708800000
+    },
+    {
+        "ID":"A21343",
+        "Department":87,
+        "MW":830,
+        "Date de depot":1706400000000
+    },
+    {
+        "ID":"A74727",
+        "Department":87,
+        "MW":640,
+        "Date de depot":1707177600000
+    },
+    {
+        "ID":"A90679",
+        "Department":64,
+        "MW":300,
+        "Date de depot":1707523200000
+    },
+    {
+        "ID":"A37505",
+        "Department":33,
+        "MW":290,
+        "Date de depot":1708387200000
+    },
+    {
+        "ID":"A89394",
+        "Department":33,
+        "MW":670,
+        "Date de depot":1708646400000
+    },
+    {
+        "ID":"A62109",
+        "Department":17,
+        "MW":780,
+        "Date de depot":1708992000000
+    },
+    {
+        "ID":"A33195",
+        "Department":17,
+        "MW":530,
+        "Date de depot":1710288000000
+    },
+    {
+        "ID":"A67067",
+        "Department":64,
+        "MW":720,
+        "Date de depot":1710547200000
+    },
+    {
+        "ID":"A27158",
+        "Department":64,
+        "MW":200,
+        "Date de depot":1711756800000
+    },
+    {
+        "ID":"A52362",
+        "Department":33,
+        "MW":430,
+        "Date de depot":1712102400000
+    },
+    {
+        "ID":"A54546",
+        "Department":87,
+        "MW":270,
+        "Date de depot":1712707200000
+    },
+    {
+        "ID":"A95122",
+        "Department":17,
+        "MW":400,
+        "Date de depot":1713916800000
+    },
+    {
+        "ID":"A14119",
+        "Department":64,
+        "MW":890,
+        "Date de depot":1715126400000
+    },
+    {
+        "ID":"A52998",
+        "Department":64,
+        "MW":640,
+        "Date de depot":1716422400000
+    },
+    {
+        "ID":"A37651",
+        "Department":33,
+        "MW":730,
+        "Date de depot":1717286400000
+    },
+    {
+        "ID":"A85016",
+        "Department":87,
+        "MW":970,
+        "Date de depot":1717804800000
+    },
+    {
+        "ID":"A56813",
+        "Department":17,
+        "MW":520,
+        "Date de depot":1718236800000
+    },
+    {
+        "ID":"A12324",
+        "Department":64,
+        "MW":500,
+        "Date de depot":1719273600000
+    },
+    {
+        "ID":"A89721",
+        "Department":17,
+        "MW":360,
+        "Date de depot":1719705600000
+    },
+    {
+        "ID":"A84197",
+        "Department":64,
+        "MW":350,
+        "Date de depot":1720051200000
+    },
+    {
+        "ID":"A29478",
+        "Department":64,
+        "MW":160,
+        "Date de depot":1720396800000
+    },
+    {
+        "ID":"A25450",
+        "Department":33,
+        "MW":260,
+        "Date de depot":1721433600000
+    },
+    {
+        "ID":"A23915",
+        "Department":17,
+        "MW":780,
+        "Date de depot":1721865600000
+    },
+    {
+        "ID":"A75807",
+        "Department":17,
+        "MW":590,
+        "Date de depot":1722211200000
+    },
+    {
+        "ID":"A05002",
+        "Department":17,
+        "MW":750,
+        "Date de depot":1722470400000
+    },
+    {
+        "ID":"A61993",
+        "Department":64,
+        "MW":260,
+        "Date de depot":1723593600000
+    },
+    {
+        "ID":"A42383",
+        "Department":87,
+        "MW":850,
+        "Date de depot":1724457600000
+    },
+    {
+        "ID":"A69858",
+        "Department":64,
+        "MW":380,
+        "Date de depot":1725494400000
+    },
+    {
+        "ID":"A08762",
+        "Department":33,
+        "MW":210,
+        "Date de depot":1726617600000
+    },
+    {
+        "ID":"A20342",
+        "Department":64,
+        "MW":190,
+        "Date de depot":1727222400000
+    },
+    {
+        "ID":"A95690",
+        "Department":33,
+        "MW":690,
+        "Date de depot":1728345600000
+    },
+    {
+        "ID":"A10650",
+        "Department":33,
+        "MW":920,
+        "Date de depot":1728864000000
+    },
+    {
+        "ID":"A61263",
+        "Department":17,
+        "MW":750,
+        "Date de depot":1729900800000
+    },
+    {
+        "ID":"A27091",
+        "Department":64,
+        "MW":500,
+        "Date de depot":1730246400000
+    },
+    {
+        "ID":"A63744",
+        "Department":87,
+        "MW":920,
+        "Date de depot":1731369600000
+    },
+    {
+        "ID":"A21683",
+        "Department":64,
+        "MW":960,
+        "Date de depot":1732492800000
+    },
+    {
+        "ID":"A33060",
+        "Department":33,
+        "MW":490,
+        "Date de depot":1733356800000
+    },
+    {
+        "ID":"A27175",
+        "Department":64,
+        "MW":930,
+        "Date de depot":1733788800000
+    },
+    {
+        "ID":"A43929",
+        "Department":64,
+        "MW":920,
+        "Date de depot":1734912000000
+    },
+    {
+        "ID":"A08511",
+        "Department":17,
+        "MW":630,
+        "Date de depot":1735776000000
+    },
+    {
+        "ID":"A45472",
+        "Department":64,
+        "MW":520,
+        "Date de depot":1736380800000
+    },
+    {
+        "ID":"A47137",
+        "Department":64,
+        "MW":340,
+        "Date de depot":1737504000000
+    },
+    {
+        "ID":"A85446",
+        "Department":33,
+        "MW":260,
+        "Date de depot":1737763200000
+    },
+    {
+        "ID":"A73294",
+        "Department":87,
+        "MW":790,
+        "Date de depot":1738368000000
+    },
+    {
+        "ID":"A47223",
+        "Department":17,
+        "MW":900,
+        "Date de depot":1738627200000
+    },
+    {
+        "ID":"A01154",
+        "Department":87,
+        "MW":230,
+        "Date de depot":1738800000000
+    },
+    {
+        "ID":"A70770",
+        "Department":87,
+        "MW":360,
+        "Date de depot":1739232000000
+    },
+    {
+        "ID":"A21459",
+        "Department":17,
+        "MW":230,
+        "Date de depot":1739491200000
+    },
+    {
+        "ID":"A34595",
+        "Department":87,
+        "MW":940,
+        "Date de depot":1739664000000
+    },
+    {
+        "ID":"A83201",
+        "Department":17,
+        "MW":720,
+        "Date de depot":1740009600000
+    },
+    {
+        "ID":"A50353",
+        "Department":87,
+        "MW":290,
+        "Date de depot":1740096000000
+    },
+    {
+        "ID":"A38715",
+        "Department":87,
+        "MW":300,
+        "Date de depot":1740528000000
+    },
+    {
+        "ID":"A29291",
+        "Department":17,
+        "MW":370,
+        "Date de depot":1740700800000
+    },
+    {
+        "ID":"A14828",
+        "Department":87,
+        "MW":760,
+        "Date de depot":1740960000000
+    },
+    {
+        "ID":"A23370",
+        "Department":64,
+        "MW":160,
+        "Date de depot":1741219200000
+    },
+    {
+        "ID":"A25608",
+        "Department":87,
+        "MW":860,
+        "Date de depot":1741392000000
+    },
+    {
+        "ID":"A91986",
+        "Department":87,
+        "MW":580,
+        "Date de depot":1741824000000
+    },
+    {
+        "ID":"A90758",
+        "Department":33,
+        "MW":860,
+        "Date de depot":1742169600000
+    },
+    {
+        "ID":"A34383",
+        "Department":87,
+        "MW":470,
+        "Date de depot":1742256000000
+    },
+    {
+        "ID":"A87566",
+        "Department":87,
+        "MW":830,
+        "Date de depot":1742688000000
+    },
+    {
+        "ID":"A76313",
+        "Department":33,
+        "MW":490,
+        "Date de depot":1742688000000
+    },
+    {
+        "ID":"A59948",
+        "Department":87,
+        "MW":870,
+        "Date de depot":1743120000000
+    },
+    {
+        "ID":"A95974",
+        "Department":87,
+        "MW":720,
+        "Date de depot":1743552000000
+    },
+    {
+        "ID":"A54870",
+        "Department":33,
+        "MW":710,
+        "Date de depot":1743638400000
+    },
+    {
+        "ID":"A52462",
+        "Department":87,
+        "MW":520,
+        "Date de depot":1743984000000
+    },
+    {
+        "ID":"A99634",
+        "Department":87,
+        "MW":960,
+        "Date de depot":1744416000000
+    },
+    {
+        "ID":"A91215",
+        "Department":87,
+        "MW":870,
+        "Date de depot":1744848000000
+    },
+    {
+        "ID":"A36059",
+        "Department":87,
+        "MW":630,
+        "Date de depot":1744848000000
+    },
+    {
+        "ID":"A39280",
+        "Department":87,
+        "MW":330,
+        "Date de depot":1745280000000
+    },
+    {
+        "ID":"A72101",
+        "Department":33,
+        "MW":330,
+        "Date de depot":1745712000000
+    },
+    {
+        "ID":"A48826",
+        "Department":87,
+        "MW":440,
+        "Date de depot":1745712000000
+    },
+    {
+        "ID":"A10525",
+        "Department":87,
+        "MW":780,
+        "Date de depot":1746144000000
+    },
+    {
+        "ID":"A32817",
+        "Department":33,
+        "MW":770,
+        "Date de depot":1746576000000
+    },
+    {
+        "ID":"A50801",
+        "Department":87,
+        "MW":620,
+        "Date de depot":1746576000000
+    },
+    {
+        "ID":"A04898",
+        "Department":87,
+        "MW":610,
+        "Date de depot":1747008000000
+    },
+    {
+        "ID":"A81416",
+        "Department":64,
+        "MW":210,
+        "Date de depot":1747353600000
+    },
+    {
+        "ID":"A26719",
+        "Department":87,
+        "MW":190,
+        "Date de depot":1747440000000
+    },
+    {
+        "ID":"A75340",
+        "Department":87,
+        "MW":530,
+        "Date de depot":1747872000000
+    },
+    {
+        "ID":"A88823",
+        "Department":33,
+        "MW":410,
+        "Date de depot":1748044800000
+    },
+    {
+        "ID":"A35617",
+        "Department":87,
+        "MW":650,
+        "Date de depot":1748304000000
+    },
+    {
+        "ID":"A80522",
+        "Department":64,
+        "MW":360,
+        "Date de depot":1748649600000
+    },
+    {
+        "ID":"A93481",
+        "Department":87,
+        "MW":490,
+        "Date de depot":1748736000000
+    },
+    {
+        "ID":"A87378",
+        "Department":87,
+        "MW":310,
+        "Date de depot":1749168000000
+    },
+    {
+        "ID":"A50234",
+        "Department":87,
+        "MW":970,
+        "Date de depot":1749600000000
+    },
+    {
+        "ID":"A72244",
+        "Department":87,
+        "MW":590,
+        "Date de depot":1749772800000
+    },
+    {
+        "ID":"A29144",
+        "Department":87,
+        "MW":630,
+        "Date de depot":1750032000000
+    },
+    {
+        "ID":"A99734",
+        "Department":17,
+        "MW":770,
+        "Date de depot":1750723200000
+    }
+]
