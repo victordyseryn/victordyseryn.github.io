@@ -1,0 +1,12 @@
+The security of the RSA cryptosystem relies on a well-known computational problem.
+
+Your goal is to decrypt the “ciphertext” c given below to recover the corresponding “plaintext” message m using the given public key (n, e).
+
+Values:
+
+e = 65537
+n = 632459103267572196107100983820469021721602147490918660274601
+c = 223508647955908436266031157338024098021013941777749021542906
+
+You have to find the value of m written in decimal.
+
